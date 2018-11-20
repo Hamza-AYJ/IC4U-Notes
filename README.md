@@ -35,7 +35,7 @@ Set
 </ul>
 
 
-<h4>Arrays, Matrices and Pixels </h4>
+<h4>Arrays, Matrices and Pixels Note 2</h4>
 
 Def: A pixel is a 2 list from natural numbers, define a position. 
 
