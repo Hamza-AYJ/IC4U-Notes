@@ -6,7 +6,10 @@
   
 List:
 [1,2,3]
-*Repetitions allowed
-*Order doesn't matter
-*Context matters
+
+<ul>
+ <li>Repetitions allowed </li>
+ <li>Order doesn't matter </li>
+ <li>Context matters </li>
+  </ul>
 
