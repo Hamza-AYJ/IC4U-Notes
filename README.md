@@ -18,3 +18,10 @@ O-Set
 <li>No repetitions allowed</li>
 <li>Ordered</li>
 </ul>
+
+M-Set
+[1 2 2]
+<ul>
+<li>Repetitions allowed</li>
+<li>Order doesn't matter</li>
+  </ul>
