@@ -6,10 +6,15 @@
   
 List:
 [1,2,3]
-
 <ul>
  <li>Repetitions allowed </li>
  <li>Order doesn't matter </li>
  <li>Context matters </li>
   </ul>
 
+O-Set
+{1 2 3}
+<ul>
+<li>No repetitions allowed</li>
+<li>Ordered</li>
+</ul>
