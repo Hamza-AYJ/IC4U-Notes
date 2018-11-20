@@ -25,3 +25,10 @@ M-Set
 <li>Repetitions allowed</li>
 <li>Order doesn't matter</li>
   </ul>
+
+Set
+{1_2_3}
+<ul>
+<li>No reps</li>
+<li>No order</li>
+</ul>
